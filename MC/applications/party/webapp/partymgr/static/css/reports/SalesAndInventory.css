@@ -1,0 +1,16 @@
+table.salesAndInventoryReport {
+  width: 100%;
+  border: 1px solid black;
+  border-collapse: collapse;
+  font: 10px Verdana, Arial, Helvetica, sans-serif;
+  }
+  table.salesAndInventoryReport td {
+    border: 1px solid black;
+      padding: 3px;
+    }
+  .rowGray {
+    background-color: #eee;
+  }
+  .rowWhite {
+    background-color: white;
+  }

@@ -1,0 +1,24 @@
+div.scroll {
+  height: 400px;
+  width: 95%;
+  overflow: auto;
+  border: 0px;
+  background-color: #FFFFFF;
+  padding: 0px;
+}
+
+.textlabelright {
+  font-size: 10px;
+  color: #000000;
+  background-color: #FFFFFF;
+  border: 0px;
+  padding: 2px;
+  text-align: right;
+}
+
+td.gray1 { background:  #EEEEEE; }
+td.gray2 { background:  #FCFCFC; }
+td.red1  { background:  #FFDDDD; }
+td.red2  { background:  #FFEEEE; }
+td.blue1 { background:  #DDDDFF; }
+td.blue2 { background:  #EEEEFF; }
